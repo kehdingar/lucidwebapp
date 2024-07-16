@@ -1,0 +1,5 @@
+venvwebapplucid/
+.env
+**/__pycache__/
+**/migrations/versions/*
+**.pytest_cache/
